@@ -1,6 +1,6 @@
 # Erasmus Budgeting App / Erasmus Bütçe Planlama Uygulaması
 
-This is a basic budget planning app developed to be used by semester abroad (Erasmus) students. Since I started this project with a momentary  fad and don't have the motivation to perfect it, it might include basic bugs. In order to avoid most of them I would suggest being careful with the inputs. ***Please do review the code before using it.***
+This is a basic budget planning app developed to be used by semester abroad (Erasmus) students. Since I started this project with a momentary fad and don't have the motivation to perfect it, it might include basic bugs. In order to avoid most of them I would suggest being careful with the inputs. ***This application does NOT need internet access, it uses local_simple_database library which simply saves anything to a .txt file on your computer. Please do review the code before using it.***
 
 ## Features
 ### • Track records of your assets
@@ -18,3 +18,10 @@ From "Travel Planning", set a name for your trip and determine the budget for it
 ### • History
 
 Records of your deposit and withdrawals can be accessed from "History" page. History records of your trips are accessible under the relevant menu.
+
+## Usage
+
+### • Run main.exe
+
+### • Directly access data from .txt files located in the folder "local_simple_database"
+
