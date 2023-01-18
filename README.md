@@ -23,5 +23,7 @@ Records of your deposit and withdrawals can be accessed from "History" page. His
 
 ### • Run [main.exe](https://github.com/gbudanur/Erasmus-Budgeting-App/blob/main/main.exe)
 
+### • Do not force the app to shut down. Use "Exit" option. If the app starts crashing on start, delete "int_counter.txt" from the folder "local_simple_database".
+
 ### • Directly access data from .txt files located in the folder "local_simple_database"
 
