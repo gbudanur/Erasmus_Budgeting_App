@@ -21,7 +21,7 @@ Records of your deposit and withdrawals can be accessed from "History" page. His
 
 ## Usage
 
-### • Run main.exe
+### • Run [main.exe](https://github.com/gbudanur/Erasmus-Budgeting-App/blob/main/main.exe)
 
 ### • Directly access data from .txt files located in the folder "local_simple_database"
 
