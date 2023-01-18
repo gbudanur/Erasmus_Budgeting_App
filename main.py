@@ -84,10 +84,7 @@ def settings():
                 else:
                     db[delete]=""
             option=0
-
-            
-
-    print(option)            
+           
     main()
 
 def deposit():
